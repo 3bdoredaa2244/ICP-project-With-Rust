@@ -1,4 +1,5 @@
-ICP Hello World with Rust
+ICP Hello World with Rust :
+
 This repository contains a simple "Hello World" project developed for the Internet Computer (ICP) using the Rust programming language. The project demonstrates the basic structure and usage of the Internet Computer platform with Rust backend development, focusing on canisters and the integration between frontend and backend.
 
 Project Overview
